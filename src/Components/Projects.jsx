@@ -58,7 +58,7 @@ const Projects = () => {
             <h3>React js | Css |Scss </h3>
             <div className="h3-p">
             <h3><a href="https://github.com/Tarunpal10/My-portfolio">Code <FaCode/></a></h3>
-            <h3><a href="https://calculatorinfo.netlify.app/">Preview <BsEyeFill/></a></h3>
+            <h3><a href="https://tarunpalportfolio.netlify.app/">Preview <BsEyeFill/></a></h3>
             </div>
         </div>
 
