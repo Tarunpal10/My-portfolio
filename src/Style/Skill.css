@@ -1,0 +1,103 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+
+.container{
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+    padding-bottom: 50px;
+   /* background-color: rgba(122, 139, 155, 0.667); */
+
+    padding-top: 50px;
+    
+}
+.h1{
+    text-align: center;
+    align-items: center;
+    margin-bottom: 20px;
+height: 60px;
+width: 600px;
+border-bottom: 2px solid black;
+margin-left: 30%;
+}
+.card img{
+    height: 250px;
+    width: auto;
+    border-radius: 20px;
+}
+.card h3{
+    font-size: 25px;
+    font-weight: 600;
+    color:darkslategray;
+}
+.card .card-text:not(text){
+    color: rgb(124, 37, 37);
+}
+.card{
+    /* border: 1px solid rgb(35, 34, 34); */
+    border-radius: 20px;
+    background-color: aliceblue;
+    cursor: pointer;
+    /* box-shadow: 0px 0px  5px 3px rgba(40, 39, 39, 0.596); */
+    box-shadow: -8px 6px 15px black;
+
+    transition: all 650ms ease-in-out;
+}
+.card:hover{
+    transform: scale(1.05);
+}
+.main-skill h5{
+    /* border: 1px solid black; */
+    height: 50px;
+    width: 400px;
+    justify-content: center;
+    text-align: center;
+    align-items: center ;
+    border-radius: 50px;
+    background-color: rgba(225, 219, 219, 0.55);
+    color: darkcyan;
+    display: grid;
+    box-shadow: 10px 5px 5px black;
+}
+.newskill h5:hover{
+ animation-name: tilt-shaking;
+ animation-delay: 1ms;
+ animation-iteration-count: infinite;
+ animation-duration: 500ms;
+}
+@keyframes tilt-shaking {
+    0% { transform: rotate(0deg); }
+    25% { transform: rotate(5deg); }
+    50% { transform: rotate(0eg); }
+    75% { transform: rotate(-5deg); }
+    100% { transform: rotate(0deg); }
+  }
+.newskill{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: auto;
+    width: 100%;
+    gap: 50px;
+    padding-right: 10px;
+    padding-bottom: 50px;
+    cursor: pointer;
+
+}
+.pe{
+    font-size: 25px;
+    font-weight: 600;
+    color: crimson;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding: 20px 30px;
+
+}
