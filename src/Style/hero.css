@@ -77,4 +77,7 @@
         width: 288vw;
         margin: 0;
     }
+    .hero2 h1{
+        margin-top: 7px;
+    }
 }
