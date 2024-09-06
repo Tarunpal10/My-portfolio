@@ -98,10 +98,16 @@ padding-top: 20px;
     }
     
 }
+@media  screen and (max-width:473px) {
+    .parted{
+        width: 380vw;
+    }
+    
+}
 @media  screen and (max-width:315px) {
     .parted{
         height: 100px;
-        width: 58vh;
+        // width: 58vh;
      }   
     
 }

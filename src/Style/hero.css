@@ -70,3 +70,11 @@
     cursor: pointer;
 }
 
+@media screen and (max-width:479px) {
+
+    .hero2{
+        background-color: black;
+        width: 288vw;
+        margin: 0;
+    }
+}

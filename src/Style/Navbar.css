@@ -45,3 +45,18 @@ color: rgb(129, 61, 57);
    
 }
 
+@media  screen and (max-width:479px) {
+    nav ul{
+        margin-right: 10px;
+    }
+    nav {
+        height: 40vh;
+        width: 288vw;
+}
+}
+@media screen and (max-width:445px){
+    ul img{
+        display: none;
+    }
+    
+}
