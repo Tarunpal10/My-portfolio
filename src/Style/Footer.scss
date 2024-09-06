@@ -67,7 +67,7 @@ padding-top: 20px;
         justify-content: center;
         text-align: center;
         align-items: center;
-        height: 550px;
+        height: 320px;
        
     }
     .part1{
@@ -93,14 +93,15 @@ padding-top: 20px;
 }
 @media  screen and (max-width:415px) {
     .parted{
-        width: 280vw;
+        width: 330vw;
+        height: 350px;
     }
     
 }
 @media  screen and (max-width:315px) {
     .parted{
-        height: 400px;
-        width:370vw;
+        height: 100px;
+        width: 58vh;
      }   
     
 }
