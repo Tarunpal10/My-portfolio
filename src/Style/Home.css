@@ -161,3 +161,8 @@ transform: translateY(10px);
 .mail{
     margin-top: 110px;
 }
+
+@media  screen and (max-width:379px) {
+
+    
+}
