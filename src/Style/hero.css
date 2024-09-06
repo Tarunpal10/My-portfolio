@@ -70,32 +70,3 @@
     cursor: pointer;
 }
 
-@media  screen and (max-width:320px){
-    .hero{
-        height: 290px;
-        width: 70vh;
-        background-color: black;
-    }
-    .hero2{
-        background-color: black;
-        padding: 5px 10px 5px 0;
-        border-bottom-left-radius: 135px;
-
-    }
-    .hero2 p{
-        width:630px;
-
-        /* border: 2px solid green; */
-        justify-content: center;
-        text-align: center;
-        align-items: center;
-        margin-right: 10px;
-    }
-    .tilt>img{
-        margin-top: 100px;
-    }
-  .hero1 {
-    /* display: none; */
-    background-color: black;
-  }
-}
