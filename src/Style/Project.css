@@ -79,3 +79,8 @@
     background: #000;
     padding: 3px 10px;
 }
+@media  screen and (max-width:379px) {
+    .project-main{
+        width: 357vw;
+    }
+}

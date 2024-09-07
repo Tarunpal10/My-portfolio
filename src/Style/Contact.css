@@ -49,10 +49,12 @@
         font-weight: 700;
     }
     .contact-heading h1{
-        height: 140px;
+        font-size: 140px;
     }
     .contact-heading>iframe{
 margin-top: 150px;
+height: 400px;
+width: 950px;
     }
     .contact-heading2{
         height: 164vh;
@@ -63,6 +65,6 @@ margin-top: 150px;
         height: 800px;
         opacity: 0.9;
         /* margin-right: 201px; */
-        margin-left: 350px;
+        margin-left: 300px;
     }
 }
