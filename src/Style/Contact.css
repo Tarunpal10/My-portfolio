@@ -39,3 +39,30 @@
 .contact-heading>iframe{
     margin-top: 100px;
 }
+@media  screen and (max-width:379px) {
+    .contact-heading{
+        height: 218vh;
+        width: 355vw;
+        /* font-size: 40px; */
+        color: white;
+        font-size: 40rem;
+        font-weight: 700;
+    }
+    .contact-heading h1{
+        height: 140px;
+    }
+    .contact-heading>iframe{
+margin-top: 150px;
+    }
+    .contact-heading2{
+        height: 164vh;
+        width: 355vw;
+    }
+    .card-contact{
+        width: 868px;
+        height: 800px;
+        opacity: 0.9;
+        /* margin-right: 201px; */
+        margin-left: 350px;
+    }
+}
