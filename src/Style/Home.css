@@ -165,12 +165,18 @@ transform: translateY(10px);
 @media  screen and (max-width:379px) {
 .heading{
     height: 219vh;
-        width: 376vw;
-        padding-top: 160px;
+    width: 355vw;
+    padding-top: 420px;
+    font-size: 80px;
+    padding-right: 28px;
+}
+.heading h1{
+    font-size: 80px;
+
 }
 .heading2{
     height: 219vh;
-    width: 376vw;
+    width: 355vw;
 }
 
 @keyframes appear {

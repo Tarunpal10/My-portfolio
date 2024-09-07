@@ -47,11 +47,15 @@ color: rgb(129, 61, 57);
 
 @media  screen and (max-width:479px) {
     nav ul{
-        margin-right: 10px;
+        margin-right: -83px;
     }
     nav {
-        height: 40vh;
+        height: 24vh;
         width: 288vw;
+
+}
+nav ul li a{
+    font-size: 30px;
 }
 }
 @media screen and (max-width:445px){
