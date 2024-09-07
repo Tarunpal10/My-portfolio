@@ -164,7 +164,7 @@ transform: translateY(10px);
 
 @media  screen and (max-width:379px) {
 .heading{
-    height: 219vh;
+    height: 260vh;
     width: 355vw;
     padding-top: 420px;
     font-size: 80px;
@@ -175,7 +175,7 @@ transform: translateY(10px);
 
 }
 .heading2{
-    height: 219vh;
+    height: 226vh;
     width: 355vw;
 }
 
@@ -183,7 +183,7 @@ transform: translateY(10px);
     from{
         opacity: 0;
         /* scale:0.5 ; */
-        transform: translateX(-400px);
+        transform: translateX(-800px);
     }
     to{
         opacity: 1;
