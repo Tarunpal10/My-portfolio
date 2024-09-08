@@ -142,5 +142,13 @@
   }
 
   @media  screen and (max-width:379px) {
-    
+   .pimg1,.pimg2,.pimg3{
+    width: 382vw;
+   } 
+   .ptext{
+    width: 375vw;
+   }
+   #schooling, #ug2,#pg2{
+    width: 382vw;
+   }
   }

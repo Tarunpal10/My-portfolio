@@ -39,7 +39,7 @@ const Education = () => {
         <span class="textBg">Under Graduation</span>
       </div>
     </section>
-    <section class="section section-dark" >
+    <section class="section section-dark"id='ug2' >
       <p>
       <div className='bca'>
         <button className='X'> BCA - Bachelors of Computer Application</button>
@@ -54,7 +54,7 @@ const Education = () => {
         <span class="textBg"> Post Graduation</span>
       </div>
     </section>
-    <section class="section section-dark">
+    <section class="section section-dark" id='pg2'>
       <p>
       <div className='mca'>
         <button className='X'> MCA - Masters of Computer Application</button>
