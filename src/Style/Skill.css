@@ -104,7 +104,7 @@ margin-left: 30%;
 
 @media  screen and (max-width:379px) {
  .container{
-    width: 205vh;
+    width: 386vw;
     gap: 60px;
     padding-bottom: 30px;
     flex-wrap: wrap;
@@ -133,7 +133,7 @@ margin-left: 30%;
     justify-content: center;
     text-align: center;
     height: auto;
-    width: 205vh;
+    width: 373vw;
     gap: 50px;
     padding-right: 10px;
     padding-bottom: 50px;
