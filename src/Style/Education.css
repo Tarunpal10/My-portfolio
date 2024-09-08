@@ -140,3 +140,7 @@
   #cwr p{
     color: white;
   }
+
+  @media  screen and (max-width:379px) {
+    
+  }
