@@ -35,6 +35,9 @@
     margin-left: 40px;
     margin-top: 10px;
     color: rgb(212, 224, 235);
+    justify-content: center;
+    text-align: center;
+    align-items: center;
 }
 .hero2 p b{
     background-color: lightcyan;
